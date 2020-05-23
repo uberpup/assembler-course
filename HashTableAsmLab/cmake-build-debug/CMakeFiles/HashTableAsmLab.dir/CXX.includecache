@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vladimir/CLionProjects/Industrial Programming Course/industrial-programming-course/HashTableAsmLab/hash_table.cpp
+x86intrin.h
+-
+hash_table.h
+/home/vladimir/CLionProjects/Industrial Programming Course/industrial-programming-course/HashTableAsmLab/hash_table.h
+
+/home/vladimir/CLionProjects/Industrial Programming Course/industrial-programming-course/HashTableAsmLab/hash_table.h
+cstddef
+-
+cstring
+-
+forward_list
+-
+string
+-
+vector
+-
+utility
+-
+
